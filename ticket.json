@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "nama": "Garuda Indonesia",
+      "rute": {
+        "dari": "Jakarta",
+        "ke": "Bali"
+      }
+    },
+    {
+      "id": 2,
+      "nama": "Batik Air",
+      "rute": {
+        "dari": "Semarang",
+        "ke": "Jayapura"
+      }
+    },
+    {
+      "id": 3,
+      "nama": "Lion Air",
+      "rute": {
+        "dari": "Indonesia",
+        "ke": "Singapore"
+      }
+    },
+    {
+      "id": 4,
+      "nama": "Citilink",
+      "rute": {
+        "dari": "Bandung",
+        "ke": "Balikpapan"
+      }
+    },
+    {
+      "id": 5,
+      "nama": "Sriwijaya Air",
+      "rute": {
+        "dari": "Jakarta",
+        "ke": "padang"
+      }
+    },
+    {
+      "id": 6,
+      "nama": "Garuda Indonesia",
+      "rute": {
+        "dari": "Indonesia",
+        "ke": "Aarab Saudi"
+      }
+    }
+  ]
+  
